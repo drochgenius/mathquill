@@ -1,5 +1,5 @@
 {
-  "name": "mathquill",
+  "name": "@hmh-cam/mathquill",
   "description": "Easily type math in your webapp",
   "version": "0.10.1",
   "license": "MPL-2.0",
