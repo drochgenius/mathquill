@@ -3,11 +3,14 @@
   "description": "Easily type math in your webapp",
   "version": "0.10.2",
   "license": "MPL-2.0",
+  "main": "build/mathquill.js",
+  "types": "src/mathquill.d.ts",
   "repository": {
     "type": "git",
     "url": "https://github.com/mathquill/mathquill.git"
   },
   "files": [
+    "src/*.d.ts",
     "build/mathquill.{css,js,min.js}",
     "build/fonts/Symbola.*",
     "quickstart.html"
