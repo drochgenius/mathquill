@@ -1,7 +1,7 @@
 {
   "name": "@hmh-cam/mathquill",
   "description": "Easily type math in your webapp",
-  "version": "0.10.2",
+  "version": "0.10.3",
   "license": "MPL-2.0",
   "main": "build/mathquill.js",
   "types": "src/mathquill.d.ts",
