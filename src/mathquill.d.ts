@@ -22,6 +22,7 @@ declare namespace MathQuill {
     interface BaseMathQuill {
       id: number;
       data: { [key: string]: any };
+      innerFields: InnerMathField[];
       revert: () => HTMLElement;
       reflow: () => void;
       el: () => HTMLElement;
